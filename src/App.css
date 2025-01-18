@@ -1,0 +1,91 @@
+ 
+ 
+#myntrashadow:hover{
+
+
+       box-shadow: 10px 10px 33px white; 
+      border : 2px solid white
+
+
+}
+
+#mens:hover{
+
+
+  
+  border : 2px solid black
+
+
+
+}
+
+body{
+ 
+   background-color: black;
+   color: white ;
+  
+
+
+}
+
+#cards:hover{
+
+
+  box-shadow: 10px 10px 70px white; 
+  border : 4px solid white
+
+
+
+}
+
+
+
+#addtocart:hover{
+
+      
+  box-shadow: 10px 10px 70px white; 
+  border : 1.50px solid white
+
+
+
+}
+
+
+#navbar{
+
+
+     box-shadow: 10px 10px 2rem white;
+    border-radius: 1rem;
+    
+
+}
+
+#categories:hover{
+
+  box-shadow: 10px 10px 70px white; 
+  border : 4px solid white      
+
+
+}
+
+#explore:hover{
+
+
+  box-shadow: 10px 10px 70px white; 
+  border : 2px solid white      
+
+
+
+}
+
+#input{
+
+    
+    
+     text-align: center;
+     place-items: center;
+
+
+
+}
+
